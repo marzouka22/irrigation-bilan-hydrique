@@ -1,0 +1,25 @@
+# Build Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE (Eclipse / STS / IntelliJ / VS Code)
+.classpath
+.project
+.settings/
+.factorypath
+.sts4-cache/
+.apt_generated/
+.idea/
+*.iml
+.vscode/
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+
+# Divers
+*.log
+.env
+HELP.md
+.DS_Store
